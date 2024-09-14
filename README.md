@@ -5,10 +5,6 @@
 <h3>Overview</h3>
 <div>
 In this assignment, I utilized Python and unsupervised machine learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
-<b>Reference:</b><br/>
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
-
 </div>
 <hr/>
 <div>
